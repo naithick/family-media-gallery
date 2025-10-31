@@ -3,7 +3,13 @@
 A secure desktop application for managing and sharing family photos with privacy controls.
 
 ## Team Members
-- **Naithick** - Project Lead & Developer
+
+| Name | Registration No. |
+|------|-----------------|
+| P. Naithick | RA2411033010145 |
+| Sahaj Gupta | RA2411033010146 |
+| Sahil Shabbirali Haryani | RA2411033010152 |
+| Alok Upadhyay | RA2411033010153 |
 
 ## Features
 
